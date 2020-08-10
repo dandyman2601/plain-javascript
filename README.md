@@ -1,5 +1,5 @@
 # Alvin's JavaScript, HTML, CSS projects
-These projects are made mainly with JavaScript, HTML and CSS.
+These projects are made mainly with JavaScript, HTML and CSS and also utilizes some API's.
 
 **How to run:**
 1. Select a project folder
